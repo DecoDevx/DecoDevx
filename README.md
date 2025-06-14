@@ -11,6 +11,8 @@ A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no
 
 - 🧩 Curioso desde pequeno por hardware e tecnologia
 - 🎓 Estudando ADS - 4º semestre
+  
+🌐 Vamos nos conectar
   <p align="left">
   <a href="www.linkedin.com/in/andré-valêncio-0b49b4266" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
