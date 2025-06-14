@@ -1,8 +1,14 @@
 # André Valêncio 
 
-**`Futuro Dev`**
+**`🚀 Desenvolvedor em formação`**
 
 Me chamo André Valêncio Miranda, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
+
+🧠 Sobre Mim
+
+- 🧩 Curioso desde pequeno por hardware e tecnologia
+- 🎓 Estudando ADS - 4º semestre
+- ✉️ Vamos conversar? [LinkedIn](www.linkedin.com/in/andré-valêncio-0b49b4266)
 
 <p align="left">
     </a> 
@@ -33,15 +39,6 @@ Me chamo André Valêncio Miranda, tenho 20 anos e sou natural de São Paulo. At
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
 <img 
