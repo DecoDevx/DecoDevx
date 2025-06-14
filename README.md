@@ -4,11 +4,24 @@
 
 Me chamo André Valêncio Miranda, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
+  Resolvi tornar oficial por aqui também: tô começando minha jornada como Indie Hacker.
+
+- A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no processo**, e quem sabe **transformar isso em algo que gere renda e impacto real**.
+- Estou documentando meus passos, acertos e tropeços porque aprender com os erros também ensina muito.
+- Se você é dev ou tá criando algo do zero, me segue que eu sigo de volta. Bora crescer juntos? 💬
+
 🧠 Sobre Mim
 
 - 🧩 Curioso desde pequeno por hardware e tecnologia
 - 🎓 Estudando ADS - 4º semestre
-- ✉️ Vamos conversar? [LinkedIn](www.linkedin.com/in/andré-valêncio-0b49b4266)
+  <p align="left">
+  <a href="www.linkedin.com/in/andré-valêncio-0b49b4266" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/decodevs_?t=NTkU6mPilKlXG8_M23ymRw&s=09" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/-Twitter/X-000000?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
 
 <p align="left">
     </a> 
