@@ -16,10 +16,10 @@ A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no
 
 <p align="">
   <a href="https://www.linkedin.com/in/andr%C3%A9-val%C3%AAncio-0b49b4266?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="35" height="35"/>
 
 <a href="https://x.com/decodevs_?t=5qzDvxO1v3UsiziTZPN3tg&s=09" target="blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="35" height="35"/>
 </p>
 
 <p align="left">
