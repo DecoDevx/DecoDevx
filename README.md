@@ -48,7 +48,7 @@ A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -57,7 +57,7 @@ A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no
     align="left" 
     alt="SASS" 
     title="SASS"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
 />
@@ -66,7 +66,7 @@ A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no
     align="left" 
     alt="Git" 
     title="Git"
-    width="30px" 
+    width="35px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
