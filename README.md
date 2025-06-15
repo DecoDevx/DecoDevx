@@ -5,7 +5,7 @@
 Me chamo André Valêncio Miranda, tenho 20 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNIP.
 
   Resolvi tornar oficial por aqui também tô começando minha jornada como Indie Hacker.
-A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no processo**, e quem sabe transformar isso em algo que gere renda e impacto real. Estou documentando meus passos, acertos e tropeços porque aprender com os erros também ensina muito. Se você é dev ou tá criando algo do zero, me segue que eu sigo de volta. Bora crescer juntos? 💬
+A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no processo**, e quem sabe transformar isso em algo que gere renda e impacto real. Estou documentando meus passos, acertos e tropeços porque aprender com os erros também ensina muito.
 
 ### 🧠 Sobre Mim
 
