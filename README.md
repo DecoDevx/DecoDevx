@@ -21,17 +21,6 @@ A ideia é simples, mas nada fácil: **criar projetos próprios**, **aprender no
 <a href="https://x.com/decodevs_?t=5qzDvxO1v3UsiziTZPN3tg&s=09" target="blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" alt="Twitter" width="35" height="35"/>
 </p>
-
-  
-<p align="left">
-    </a> 
-    <a href="https://github.com/DecoDevx?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/decodevx?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-
       
 ### 🤖 Linguagens
 
